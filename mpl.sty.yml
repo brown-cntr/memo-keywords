@@ -1,0 +1,22 @@
+font.family : sans-serif
+font.sans-serif: OverpassNerdFont, Fira Sans, FreeSans, Arial, Helvetica, DejaVu Sans, sans-serif
+font.monospace: OverpassMNerdFontMono, FiraCodeNerd, FiraMono, DejaVu Sans Mono, Terminal, monospace
+font.size : 15
+axes.titlesize : 20
+axes.labelsize : 18
+axes.linewidth : 1.5
+lines.linewidth : 1.5
+lines.markersize : 20
+patch.linewidth : 1.5
+xtick.labelsize : 15
+ytick.labelsize : 15
+xtick.major.width : 2
+xtick.minor.width : 2
+ytick.major.width : 2
+ytick.minor.width : 2
+savefig.dpi : 300
+savefig.transparent : False
+savefig.facecolor : white
+savefig.format : svg
+savefig.pad_inches : 0.5
+savefig.bbox : tight
