@@ -6,6 +6,8 @@ The keyword categories are relevant to certain sections of the OMB's memo releas
 
 The aim is to have some preliminary comparison of certain sections / criteria from the OMB memo and the current legislation landscape at the state level.
 
+More information about motivation and discussion is in the blog post: [*Seeking Harmony in AI Governance*](https://cntr.substack.com/p/seeking-harmony-in-ai-governance).
+
 ## Requirements
 
 This requires `python>=3.10` and `pandoc`.
